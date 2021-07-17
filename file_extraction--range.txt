@@ -1,0 +1,11 @@
+waving   : 1--->24
+
+sitting  : 25-->44
+
+standing : 45-->64
+
+time     : 65-->77
+
+bending  : 78-->96
+
+clapping : 97-->125
